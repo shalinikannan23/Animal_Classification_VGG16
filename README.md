@@ -121,6 +121,14 @@ Output after classifier: `(32, 3)`
 Softmax probabilities correspond to `[cat, dog, panda]`.
 
 ---
+## Output
+
+<img width="770" height="388" alt="image" src="https://github.com/user-attachments/assets/a373ffbb-4bd3-4739-a812-623e4d45223c" />
+<img width="789" height="699" alt="image" src="https://github.com/user-attachments/assets/b929346c-1d78-4d9f-9aef-45ea24d75747" />
+<img width="611" height="264" alt="image" src="https://github.com/user-attachments/assets/9fe95cd0-9901-4351-ace0-05fced4a0c50" />
+<img width="789" height="699" alt="image" src="https://github.com/user-attachments/assets/292e9daf-8dd3-45e1-8ce3-9ac0081caa07" />
+<img width="1990" height="313" alt="image" src="https://github.com/user-attachments/assets/11fcdd8a-b617-433b-83c8-1b7d6958275f" />
+
 
 ## Results
 
